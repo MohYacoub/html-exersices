@@ -1,17 +1,40 @@
 header {
-    background-color: blueviolet;
+    background-color: #2b3c2a;
     padding: 20px;
     margin: 0px;
     color: cornsilk;
     text-align: center;
-    font-size: 150%;
+    font-size: 20px;
+    font-family: Monospace ;
 }
 nav {
-    background-color: rgb(17, 235, 46);
+    font-size: 20px;
+    text-align: center;
+    background-color:#93be86;
     padding: 20px;
     margin: 0px;
+    font-family: Courier;
 }
 a {
     padding: 20px;
     color: cornsilk;
 }
+img {
+    padding: 10px;
+    float : right;
+    clear: both;
+    margin: 0px 0px 15px 15px;
+}
+p,h2{
+    text-align: justify;
+    padding: 20px;
+    font-family: Helvetica, sans-serif;
+
+}
+footer {
+
+    background-color: #003507;
+    font-family: Courier;
+    text-align: center;
+    color: cornsilk;
+ }
