@@ -1,0 +1,17 @@
+header {
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 0px;
+    color: cornsilk;
+    text-align: center;
+    font-size: 150%;
+}
+nav {
+    background-color: rgb(17, 235, 46);
+    padding: 20px;
+    margin: 0px;
+}
+a {
+    padding: 20px;
+    color: cornsilk;
+}
