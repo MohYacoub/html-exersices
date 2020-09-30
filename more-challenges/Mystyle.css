@@ -22,17 +22,18 @@ a {
 img {
     padding: 10px;
     float : right;
-    clear: both;
     margin: 0px 0px 15px 15px;
 }
 p,h2{
     text-align: justify;
     padding: 20px;
     font-family: Helvetica, sans-serif;
-
 }
-footer {
-
+p {
+    font-size: 20px;
+}
+footer p {
+    clear: both;
     background-color: #003507;
     font-family: Courier;
     text-align: center;
